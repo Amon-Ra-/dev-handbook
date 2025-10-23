@@ -19,16 +19,16 @@
 
 | №  | Раздел                                | Ссылка                               |
 |----|----------------------------------------|--------------------------------------|
-| 01 | Назначение документа                   | `01_purpose.md`                      |
-| 02 | Роли и ответственность                 | `02_roles-and-responsibilities.md`   |
-| 03 | Структура ветвления (GitFlow)          | `03_branching-structure.md`          |
-| 04 | Процесс работы с ветками               | `04_branching-guidelines.md`            |
-| 05 | Подготовка релиза                      | `05_release-preparation.md`          |
-| 06 | Процесс Hotfix                         | `06_hotfix-process.md`               |
-| 07 | Защищённые ветки                       | `07_protected-branches.md`           |
-| 08 | Контроль нарушений и аудит             | `08_audit-and-compliance.md`         |
-| 09 | Интеграция с CI/CD                     | `09_ci-cd-integration.md`            |
-| 10 | Контроль и актуализация                | `10_review-and-updates.md`           |
+| 01 | Назначение документа                   | [01_purpose.md](01_purpose.md)                      |
+| 02 | Роли и ответственность                 | [02_roles-and-responsibilities.md](02_roles-and-responsibilities.md)   |
+| 03 | Структура ветвления (GitFlow)          | [03_branching-structure.md](03_branching-structure.md)          |
+| 04 | Процесс работы с ветками               | [04_branching-guidelines.md](04_branching-guidelines.md)            |
+| 05 | Подготовка релиза                      | [05_release-preparation.md](05_release-preparation.md)          |
+| 06 | Процесс Hotfix                         | [06_hotfix-process.md](06_hotfix-process.md)               |
+| 07 | Защищённые ветки                       | [07_protected-branches.md](07_protected-branches.md)           |
+| 08 | Контроль нарушений и аудит             | [08_audit-and-compliance.md](08_audit-and-compliance.md)         |
+| 09 | Интеграция с CI/CD                     | [09_ci-cd-integration.md](09_ci-cd-integration.md)            |
+| 10 | Контроль и актуализация                | [10_review-and-updates.md](10_review-and-updates.md)           |
 
 ## Структура репозитория
 
