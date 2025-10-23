@@ -21,14 +21,13 @@
 |----|----------------------------------------|--------------------------------------|
 | 01 | Назначение документа                   | [01_intro.md](01_intro.md)                      |
 | 02 | Роли и ответственность                 | [02_roles-and-responsibilities.md](02_roles-and-responsibilities.md)   |
-| 03 | Структура ветвления (GitFlow)          | [03_branching-structure.md](03_branching-structure.md)          |
-| 04 | Процесс работы с ветками               | [04_branching-guidelines.md](04_branching-guidelines.md)            |
-| 05 | Подготовка релиза                      | [05_release-preparation.md](05_release-preparation.md)          |
-| 06 | Процесс Hotfix                         | [06_hotfix-process.md](06_hotfix-process.md)               |
-| 07 | Защищённые ветки                       | [07_protected-branches.md](07_protected-branches.md)           |
-| 08 | Контроль нарушений и аудит             | [08_audit-and-compliance.md](08_audit-and-compliance.md)         |
-| 09 | Интеграция с CI/CD                     | [09_ci-cd-integration.md](09_ci-cd-integration.md)            |
-| 10 | Контроль и актуализация                | [10_review-and-updates.md](10_review-and-updates.md)           |
+| 03 | Процесс работы с ветками               | [03_branching-guidelines.md](03_branching-guidelines.md)            |
+| 04 | Подготовка релиза                      | [04_release-preparation.md](04_release-preparation.md)          |
+| 05 | Процесс Hotfix                         | [05_hotfix-process.md](05_hotfix-process.md)               |
+| 06 | Защищённые ветки                       | [06_protected-branches.md](06_protected-branches.md)           |
+| 07 | Контроль нарушений и аудит             | [07_audit-and-compliance.md](07_audit-and-compliance.md)         |
+| 08 | Интеграция с CI/CD                     | [08_ci-cd-integration.md](08_ci-cd-integration.md)            |
+| 09 | Контроль и актуализация                | [09_review-and-updates.md](09_review-and-updates.md)           |
 
 ## Структура репозитория
 
@@ -40,10 +39,9 @@
 /docs
  ├── 01_intro.md
  ├── 02_roles-and-responsibilities.md
- ├── 03_branching-structure.md
- ├── 04_branching-guidelines.md
+ ├── 03_branching-guidelines.md
  ├── ...
- └── 10_review-and-updates.md
+ └── 09_review-and-updates.md
 ```
 
 ## Принципы ведения и обновления
