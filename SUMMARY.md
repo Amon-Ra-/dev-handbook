@@ -1,7 +1,7 @@
 # Summary
 
 - [Главная](docs/README.md)
-- [Введение](docs/01_purpose.md)
+- [Введение](docs/01_intro.md)
 - [Роли и ответственность](docs/02_roles-and-responsibilities.md)
 - [Структура ветвления (GitFlow)](docs/03_branching-structure.md)
 - [Процесс работы с ветками](docs/04_branching-guidelines.md)

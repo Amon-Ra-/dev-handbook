@@ -19,7 +19,7 @@
 
 | №  | Раздел                                | Ссылка                               |
 |----|----------------------------------------|--------------------------------------|
-| 01 | Назначение документа                   | [01_purpose.md](01_purpose.md)                      |
+| 01 | Назначение документа                   | [01_intro.md](01_intro.md)                      |
 | 02 | Роли и ответственность                 | [02_roles-and-responsibilities.md](02_roles-and-responsibilities.md)   |
 | 03 | Структура ветвления (GitFlow)          | [03_branching-structure.md](03_branching-structure.md)          |
 | 04 | Процесс работы с ветками               | [04_branching-guidelines.md](04_branching-guidelines.md)            |
@@ -38,7 +38,7 @@
 
 ```
 /docs
- ├── 01_purpose.md
+ ├── 01_intro.md
  ├── 02_roles-and-responsibilities.md
  ├── 03_branching-structure.md
  ├── 04_branching-guidelines.md
